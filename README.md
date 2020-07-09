@@ -1,3 +1,4 @@
 Project SITEKTIF
 
-Jasttips menggunakan Framework Ionic Angular
+Jasttips Aplikasi Mobile
+Menggunakan Framework Ionic Angular
